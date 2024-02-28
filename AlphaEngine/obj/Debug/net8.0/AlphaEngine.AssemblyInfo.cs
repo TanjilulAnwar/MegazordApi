@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlphaEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c41ca00317b3b620ba698b80fca7bcc9c86baa6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlphaEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlphaEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
